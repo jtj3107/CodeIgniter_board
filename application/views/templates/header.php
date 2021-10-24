@@ -1,5 +1,6 @@
 <html>
   <head>
+    <link rel="shortcut icon" href="#">
     <title>CodeIgniter 튜토리얼(Tutorial)</title>
   </head>
   <body>
